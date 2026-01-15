@@ -12,10 +12,11 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 
 ---
 
-## 🧰 Tech Stack & Tools (Badges)
+## 🧰 Tech Stack & Tools
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0B0B0B)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=0B0B0B)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -23,6 +24,8 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🧠 State, Workflow & App Architecture
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -33,6 +36,10 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 ### 🧑‍💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B0B0B)
+
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Backend / APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -46,8 +53,10 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0B0B0B)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🧪 Testing / Quality
@@ -56,17 +65,20 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Detox](https://img.shields.io/badge/Detox-0B0B0B?style=for-the-badge&logo=wix&logoColor=white)
 
-### 💳 Payments / Mobile Ecosystem
-![Adyen](https://img.shields.io/badge/Adyen-0ABF53?style=for-the-badge&logo=adyen&logoColor=white)
-![Braintree](https://img.shields.io/badge/Braintree-162F45?style=for-the-badge&logo=braintree&logoColor=white)
-
 ### 🛠️ Tooling / DX
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=0B0B0B)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub%20Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Turbopack](https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=turbo&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=0B0B0B)
+![Adyen](https://img.shields.io/badge/Adyen-0ABF53?style=for-the-badge&logo=adyen&logoColor=white)
+![Braintree](https://img.shields.io/badge/Braintree-162F45?style=for-the-badge&logo=braintree&logoColor=white)
 
 ### 🤖 AI / Agentic Systems & Orchestration
 ![LangChain](https://img.shields.io/badge/LangChain-2B5DFF?style=for-the-badge&logo=langchain&logoColor=white)
@@ -81,7 +93,6 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 ---
 
 ## 🧱 Engineering Principles
-
 ![TDD](https://img.shields.io/badge/TDD-1F2937?style=for-the-badge&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-111827?style=for-the-badge&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-0F172A?style=for-the-badge&logoColor=white)
