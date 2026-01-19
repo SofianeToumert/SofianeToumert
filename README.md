@@ -86,7 +86,7 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 [![Conductor](https://img.shields.io/badge/Conductor.build-111827?style=for-the-badge&logoColor=white)](https://www.conductor.build/)
 
