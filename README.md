@@ -4,6 +4,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiane-toumert)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofianetoumert@yahoo.fr)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dropkickstudio)
+
+
+
+
+
+
+
 
 ---
 
@@ -104,6 +112,7 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 🎓 **B.Sc. Computer Science & Software Engineering** — University of Quebec at Montreal (2014–2017)  
 🎓 **B.Sc. Physics** — Alexandra Duma International High School (2009–2013)  
 
+🔃 Professional Scrum Master™
 ✅ Registered Scrum Basics™  
 ✅ Microsoft: AI for Workplace Productivity  
 
