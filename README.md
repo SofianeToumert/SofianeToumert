@@ -6,13 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofianetoumert@yahoo.fr)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dropkickstudio)
 
-
-
-
-
-
-
-
 ---
 
 ## 🚀 About Me
@@ -98,6 +91,15 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 [![Conductor](https://img.shields.io/badge/Conductor.build-111827?style=for-the-badge&logoColor=white)](https://www.conductor.build/)
 
+### 📌 Project Management / Docs
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+
+
+
 ---
 
 ## 🧱 Engineering Principles
@@ -112,7 +114,7 @@ Senior Full-Stack Developer with **9+ years** of experience building **scalable,
 🎓 **B.Sc. Computer Science & Software Engineering** — University of Quebec at Montreal (2014–2017)  
 🎓 **B.Sc. Physics** — Alexandra Duma International High School (2009–2013)  
 
-🔃 Professional Scrum Master™
+🔃 Professional Scrum Master I™ (PSM I)  
 ✅ Registered Scrum Basics™  
 ✅ Microsoft: AI for Workplace Productivity  
 
